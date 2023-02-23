@@ -1,4 +1,4 @@
-# Olá a todos!!! 😀
+# Olá !!! 😀
 
 🎓 Sistemas de Informação | Node.JS JS CSS HTML
 
