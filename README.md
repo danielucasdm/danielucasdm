@@ -1,6 +1,6 @@
 # Welcome, nice to see you here! 😀
 
-🎓 Sistemas de Informação | Node.JS JS CSS HTML
+🎓 Sistemas de Informação | .NET Developer
 
 ##
 <div align="center">
